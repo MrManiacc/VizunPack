@@ -1,5 +1,12 @@
 # VizunPack - Version 1.0
 
+# Author
+[James](https://github.com/MrManiacc) - Putting all the mods together in a modpack, some custom mods
+
+[River](https://github.com/Rmarmorstein) - Also helped put mods together
+
+# Server and modpack
+Click [here](http://example.com) to download the latest server version or click [here](http://example.com) to go to modpack page
 
 # List of mods
 * DE3DSOUL ASM Fixes - 0.1.0
