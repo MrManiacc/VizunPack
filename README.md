@@ -6,7 +6,7 @@
 [River](https://github.com/Rmarmorstein) - Also helped put mods together
 
 # Server and modpack
-Click [here](https://www.dropbox.com/s/lm4loo7dupbeznv/server.zip?dl=0) to download the latest server version or click [here](https://www.dropbox.com/s/a74uk92re336hr7/modpack.zip?dl=0) to go to modpack page
+Click [here](https://www.dropbox.com/s/lm4loo7dupbeznv/server.zip?dl=0) to download the latest server version or click [here](http://www.technicpack.net/modpack/vizun.954028) to go to modpack page
 
 # List of mods
 * DE3DSOUL ASM Fixes - 0.1.0
